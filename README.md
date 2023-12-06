@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I think I'm funny 😂**
 
-![snake gif](https://github.com/WaliUllahbaig/WaliUllahbaig/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/WaliUllahbaig/WaliUllahbaig/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
